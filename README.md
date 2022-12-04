@@ -1,4 +1,4 @@
-# Bem-vindo!
+# Welcome - Bem-vindo!
 
 This is a language portfolio for my Bachelor´s degree studies at the University of Helsinki. I started my studies in September 2022, as I finally got in to study Portuguese as my major on the third attempt at the entrance exam. I was lucky to finally being able to study a new Romance language, as I have previously studied only Spanish at the university level.
 
@@ -10,3 +10,7 @@ The portfolio is divided in four parts:
 - my goals for each study year and analysis on how they were achieved
 - SWOT analysis
 - roadmap of my studies
+
+## First Study Year
+
+See my [study goals for the first year](/1st_year/1st_year_study_goals.md).
