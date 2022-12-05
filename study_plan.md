@@ -1,8 +1,8 @@
-# Study plan - 1st version
+# Study plan
 
 I wanted to finalize the first version of my study plan as early as possible, so that I would have objectives set for my whole bachelor’s degree already at the beginning of my studies. This would help me in scheduling my studies and organize time available for them during the first year.
 
-## Major studies
+## First year
 
 I chose the following courses for the first year:
 
