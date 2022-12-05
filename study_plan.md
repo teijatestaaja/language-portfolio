@@ -6,23 +6,23 @@ I wanted to finalize the first version of my study plan as early as possible, so
 
 I chose the following courses for the first year:
 
-| Course        | Credits | Completed |
-|---------------|---------|-----------|
-| Portuguese 1A | 10      | |
-| Portuguese 1B | 10      | |
-| Portugal’s History and Culture | 5 | |
-| Portuguese Phonetics, Phonology and Pronunciation | 5 | |
-| Introduction to General Linguistics and Phonetics | 5 | |
-| Introduction to Language Technology | 5 | |
-| Corpus Linguistics and Statistical Methods | 5 | |
-| Academic Reading and Writing Skills | 3 |
-| Command Line Tools for Linguists | 5 | |
-| Programming for Linguists  | 5 | |
-| Mathematics for Linguists | 5 | |
-| Machine Learning for Linguists | 5 | |
-| Orientation Studies | 2 |  |
-| Student's Digital Skills: Orientation | 2 | autumn 2022 |
-| Student's Digital Skills: Advanced Skills | 1 | |
+| Course        | Credits | Type of studies | Completed |
+|---------------|---------|-----------------|-----------|
+| Portuguese 1A | 10      | Major | |
+| Portuguese 1B | 10      | Major | |
+| Portugal’s History and Culture | 5 | Major | |
+| Portuguese Phonetics, Phonology and Pronunciation | 5 | Major | |
+| Introduction to General Linguistics and Phonetics | 5 | Common | |
+| Introduction to Language Technology | 5 | Common | |
+| Corpus Linguistics and Statistical Methods | 5 | Common | |
+| Academic Reading and Writing Skills | 3 | Common |
+| Command Line Tools for Linguists | 5 | Linguistics, Intermediate Studies | 
+| Programming for Linguists  | 5 | Linguistics, Intermediate Studies | |
+| Mathematics for Linguists | 5 | Linguistics, Intermediate Studies | |
+| Machine Learning for Linguists | 5 | Linguistics, Intermediate Studies | |
+| Orientation Studies | 2 | Other | |
+| Student's Digital Skills: Orientation | 2 | Other | autumn 2022 |
+| Student's Digital Skills: Advanced Skills | 1 | Other | | 
 | Total | 73 | 2 / 73 |
 
 ## Minor studies
