@@ -13,4 +13,4 @@ The portfolio is divided in four parts:
 
 ## First Study Year
 
-See my [study goals for the first year](/1st_year/1st_year_study_goals.md).
+See my [study goals for the first year](/1st_year/1st_year_study_goals.md) and [study plan](study_plan.md).
