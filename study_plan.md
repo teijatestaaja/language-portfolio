@@ -10,19 +10,20 @@ I chose the following courses for the first year:
 |---------------|---------|-----------|
 | Portuguese 1A | 10      | |
 | Portuguese 1B | 10      | |
-| Portugal’s history and culture | 5 | |
-| Portuguese phonetics, phonology and pronunciation | 5 | |
+| Portugal’s History and Culture | 5 | |
+| Portuguese Phonetics, Phonology and Pronunciation | 5 | |
 | Introduction to General Linguistics and Phonetics | 5 | |
 | Introduction to Language Technology | 5 | |
 | Corpus Linguistics and Statistical Methods | 5 | |
+| Academic Reading and Writing Skills | 3 |
 | Command Line Tools for Linguists | 5 | |
 | Programming for Linguists  | 5 | |
 | Mathematics for Linguists | 5 | |
 | Machine Learning for Linguists | 5 | |
 | Orientation Studies | 2 |  |
-| Student's digital skills: orientation | 2 | autumn 2022 |
-| Student's digital skills: advanced skills | 1 | |
-| Total | 70 | 2 / 70 |
+| Student's Digital Skills: Orientation | 2 | autumn 2022 |
+| Student's Digital Skills: Advanced Skills | 1 | |
+| Total | 73 | 2 / 73 |
 
 ## Minor studies
 
