@@ -6,24 +6,24 @@ I wanted to finalize the first version of my study plan as early as possible, so
 
 I chose the following courses for the first year:
 
-| Course        | Credits | Type of studies | Completed |
-|---------------|---------|-----------------|-----------|
-| Portuguese 1A | 10      | Major | |
-| Portuguese 1B | 10      | Major | |
-| Portugal’s History and Culture | 5 | Major | |
-| Portuguese Phonetics, Phonology and Pronunciation | 5 | Major | |
-| Introduction to General Linguistics and Phonetics | 5 | Common | |
-| Introduction to Language Technology | 5 | Common | |
-| Corpus Linguistics and Statistical Methods | 5 | Common | |
-| Academic Reading and Writing Skills | 3 | Common |
-| Command Line Tools for Linguists | 5 | Linguistics, Intermediate Studies | 
-| Programming for Linguists  | 5 | Linguistics, Intermediate Studies | |
-| Mathematics for Linguists | 5 | Linguistics, Intermediate Studies | |
-| Machine Learning for Linguists | 5 | Linguistics, Intermediate Studies | |
-| Orientation Studies | 2 | Other | |
-| Student's Digital Skills: Orientation | 2 | Other | autumn 2022 |
-| Student's Digital Skills: Advanced Skills | 1 | Other | | 
-| Total | 73 | 2 / 73 |
+| Course        | Credits | Type of studies | Study method | Completed |
+|---------------|---------|-----------------|----------|-----------|
+| Portuguese 1A | 10      | Major | Lecture course | |
+| Portuguese 1B | 10      | Major | Lecture course | |
+| Portugal’s History and Culture | 5 | Major | Lecture course | |
+| Portuguese Phonetics, Phonology and Pronunciation | 5 | Major | Lecture course | |
+| Introduction to General Linguistics and Phonetics | 5 | Common | Web course | |
+| Introduction to Language Technology | 5 | Common | Web course | |
+| Corpus Linguistics and Statistical Methods | 5 | Common | Web course | |
+| Academic Reading and Writing Skills | 3 | Common | Book exam | |
+| Command Line Tools for Linguists | 5 | Linguistics, Intermediate Studies | Web course | |
+| Programming for Linguists  | 5 | Linguistics, Intermediate Studies | Web course | |
+| Mathematics for Linguists | 5 | Linguistics, Intermediate Studies | Lecture course | |
+| Machine Learning for Linguists | 5 | Linguistics, Intermediate Studies | Lecture course | |
+| Orientation Studies | 2 | Other | Web course | |
+| Student's Digital Skills: Orientation | 2 | Other | Web course | autumn 2022 |
+| Student's Digital Skills: Advanced Skills | 1 | Other | Web course | |
+| Total | 73 |  |  | 2 / 73 |
 
 ## Minor studies
 
